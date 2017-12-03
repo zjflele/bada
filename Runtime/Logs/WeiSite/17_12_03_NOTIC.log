@@ -1,0 +1,11 @@
+[ 2017-12-03T07:31:28+08:00 ] 223.72.84.48 /index.php?s=/w16/WeiSite/Wap/index.html&nsukey=Ng7THdiQ74cZ7gx6vk%2Bn8y%2FQK18UMaCwhjGEaUyCCJOD2zvxwSBgWamuKWODnwyr74MYKds269aUTdogAVUNFOsOsXmafnYDPXbLbCtg8phg1QrZZf9VfmmI0F6JiXWWJGCx%2B0c1b2KDjq5a0Zv10cvdURY2gqUm2ymT3cMGHV6NspnYWbbE6AO5zLXpgGBRCtxquijAS8T93C5R1c1mSw%3D%3D
+NOTIC: [2] Cannot declare class Think\Action, because the name is already in use /home/wwwroot/weiphp/ThinkPHP/Library/Think/WapBaseController.class.php 第 174 行.
+NOTIC: [2] unlink(./Runtime/Temp/weiphp_94574941375bff72e465162aea5c280d.php): No such file or directory /home/wwwroot/weiphp/ThinkPHP/Library/Think/Cache/Driver/File.class.php 第 157 行.
+NOTIC: [2] Invalid argument supplied for foreach() /home/wwwroot/weiphp/Addons/Card/Model/CardCustomModel.class.php 第 20 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /home/wwwroot/weiphp/ThinkPHP/Library/Vendor/jssdk/jssdk.php 第 49 行.
+NOTIC: [8] Undefined variable: thumb /home/wwwroot/weiphp/Application/Common/Common/function.php 第 1074 行.
+NOTIC: [8] Undefined offset: 0 /home/wwwroot/weiphp/Addons/WeiSite/Controller/WapController.class.php 第 20 行.
+NOTIC: [2] Invalid argument supplied for foreach() /home/wwwroot/weiphp/Addons/WeiSite/Controller/WapController.class.php 第 51 行.
+NOTIC: [8] Undefined variable: thumb /home/wwwroot/weiphp/Application/Common/Common/function.php 第 1074 行.
+NOTIC: [2] Invalid argument supplied for foreach() /home/wwwroot/weiphp/Addons/WeiSite/Controller/WapController.class.php 第 66 行.
+

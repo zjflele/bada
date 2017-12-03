@@ -1,0 +1,9 @@
+[ 2017-12-02T11:32:27+08:00 ] 43.243.137.75 /install.php?s=/w0/index/complete.html
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' /home/wwwroot/weiphp/Runtime/Cache/Install/10930f5f1cfee0a18170b1bf78b206ef.php 第 11 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' /home/wwwroot/weiphp/Runtime/Cache/Install/10930f5f1cfee0a18170b1bf78b206ef.php 第 12 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' /home/wwwroot/weiphp/Runtime/Cache/Install/10930f5f1cfee0a18170b1bf78b206ef.php 第 13 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' /home/wwwroot/weiphp/Runtime/Cache/Install/10930f5f1cfee0a18170b1bf78b206ef.php 第 17 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' /home/wwwroot/weiphp/Runtime/Cache/Install/10930f5f1cfee0a18170b1bf78b206ef.php 第 20 行.
+NOTIC: [8] Undefined index: update /home/wwwroot/weiphp/Runtime/Cache/Install/10930f5f1cfee0a18170b1bf78b206ef.php 第 41 行.
+NOTIC: [8] Undefined index: update /home/wwwroot/weiphp/Runtime/Cache/Install/10930f5f1cfee0a18170b1bf78b206ef.php 第 53 行.
+

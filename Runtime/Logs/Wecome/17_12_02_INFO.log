@@ -1,0 +1,165 @@
+[ 2017-12-02T19:13:15+08:00 ] 223.72.84.48 /index.php?s=/w16/Wecome/Wecome/config.html&mdm=45
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000710s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000239s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000256s ]
+INFO: [ material ] --START--
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004496s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002213s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002227s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Plugins\Material\MaterialAddon [ RunTime:0.002848s ]
+INFO: [ material ] --END-- [ RunTime:0.002856s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002365s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002227s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000002s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.000031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000287s ]
+
+[ 2017-12-02T19:13:26+08:00 ] 223.72.84.48 /index.php?s=/w16/Wecome/Wecome/config.html&mdm=45|46
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000711s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000246s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000264s ]
+INFO: [ material ] --START--
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004208s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002249s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002263s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000103s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Plugins\Material\MaterialAddon [ RunTime:0.002924s ]
+INFO: [ material ] --END-- [ RunTime:0.002932s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002403s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002263s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000002s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.000032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000299s ]
+
+[ 2017-12-02T19:13:27+08:00 ] 223.72.84.48 /index.php?s=/w16/Wecome/Wecome/config.html&mdm=45
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000735s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000265s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+INFO: [ material ] --START--
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003960s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002190s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002205s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Plugins\Material\MaterialAddon [ RunTime:0.002848s ]
+INFO: [ material ] --END-- [ RunTime:0.002856s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002205s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000003s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.000044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-12-02T19:17:49+08:00 ] 223.72.84.48 /index.php?s=/w16/Wecome/Wecome/config.html&mdm=45
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000707s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000265s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000294s ]
+INFO: [ material ] --START--
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003886s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002224s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002238s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Plugins\Material\MaterialAddon [ RunTime:0.002949s ]
+INFO: [ material ] --END-- [ RunTime:0.002957s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002414s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002238s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000003s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.000031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-12-02T19:19:25+08:00 ] 223.72.84.48 /index.php?s=/w16/Wecome/Wecome/config.html&mdm=45
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000650s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000259s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000277s ]
+INFO: [ material ] --START--
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003842s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002103s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002117s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Plugins\Material\MaterialAddon [ RunTime:0.002736s ]
+INFO: [ material ] --END-- [ RunTime:0.002745s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002251s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002117s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000002s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.000030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000299s ]
+

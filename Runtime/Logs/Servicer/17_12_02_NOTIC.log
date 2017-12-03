@@ -1,0 +1,89 @@
+[ 2017-12-02T19:17:35+08:00 ] 223.72.84.48 /index.php?s=/w16/Servicer/Servicer/lists.html&mdm=45|338
+NOTIC: [2] Cannot declare class Think\Action, because the name is already in use /home/wwwroot/weiphp/ThinkPHP/Library/Think/ManageBaseController.class.php 第 316 行.
+NOTIC: [2] Declaration of Addons\Servicer\Controller\ServicerController::lists() should be compatible with Think\ManageBaseController::lists($model = NULL, $page = 0) /home/wwwroot/weiphp/Addons/Servicer/Controller/ServicerController.class.php 第 6 行.
+NOTIC: [2] unlink(./Runtime/Temp/weiphp_94574941375bff72e465162aea5c280d.php): No such file or directory /home/wwwroot/weiphp/ThinkPHP/Library/Think/Cache/Driver/File.class.php 第 157 行.
+NOTIC: [2] Invalid argument supplied for foreach() /home/wwwroot/weiphp/Addons/Card/Model/CardCustomModel.class.php 第 20 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/weiphp/ThinkPHP/Library/Think/ManageBaseController.class.php 第 155 行.
+NOTIC: [8] Undefined variable: tongji_code /home/wwwroot/weiphp/ThinkPHP/Library/Think/ManageBaseController.class.php 第 122 行.
+NOTIC: [8] Undefined index: group_id /home/wwwroot/weiphp/Application/Common/Model/AddonStatusModel.class.php 第 50 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined offset: 14 /home/wwwroot/weiphp/Application/Common/Model/MenuModel.class.php 第 98 行.
+NOTIC: [8] Undefined offset: 14 /home/wwwroot/weiphp/Application/Common/Model/MenuModel.class.php 第 109 行.
+NOTIC: [8] Undefined offset: 60 /home/wwwroot/weiphp/Application/Common/Model/MenuModel.class.php 第 98 行.
+NOTIC: [8] Undefined offset: 60 /home/wwwroot/weiphp/Application/Common/Model/MenuModel.class.php 第 109 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/weiphp/ThinkPHP/Library/Think/Controller.class.php 第 987 行.
+NOTIC: [2] array_keys() expects parameter 1 to be array, null given /home/wwwroot/weiphp/ThinkPHP/Library/Think/Controller.class.php 第 987 行.
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/weiphp/ThinkPHP/Library/Think/Controller.class.php 第 988 行.
+NOTIC: [2] array_keys() expects parameter 1 to be array, null given /home/wwwroot/weiphp/ThinkPHP/Library/Think/Controller.class.php 第 988 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given /home/wwwroot/weiphp/ThinkPHP/Library/Think/Controller.class.php 第 990 行.
+NOTIC: [2] array_push() expects parameter 1 to be array, null given /home/wwwroot/weiphp/ThinkPHP/Library/Think/Controller.class.php 第 990 行.
+NOTIC: [2] array_intersect(): Argument #1 is not an array /home/wwwroot/weiphp/ThinkPHP/Library/Think/Controller.class.php 第 991 行.
+NOTIC: [2] array_unique() expects parameter 1 to be array, null given /home/wwwroot/weiphp/ThinkPHP/Library/Think/Controller.class.php 第 993 行.
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/weiphp/ThinkPHP/Library/Think/Controller.class.php 第 994 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given /home/wwwroot/weiphp/ThinkPHP/Library/Think/Controller.class.php 第 1031 行.
+NOTIC: [8] Undefined variable: order /home/wwwroot/weiphp/Addons/Servicer/Controller/ServicerController.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/weiphp/Addons/Servicer/Controller/ServicerController.class.php 第 48 行.
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/weiphp/Addons/Servicer/Controller/ServicerController.class.php 第 48 行.
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/weiphp/Addons/Servicer/Controller/ServicerController.class.php 第 48 行.
+NOTIC: [2] Invalid argument supplied for foreach() /home/wwwroot/weiphp/ThinkPHP/Library/Think/Controller.class.php 第 818 行.
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/weiphp/Application/Common/Common/function.php 第 969 行.
+NOTIC: [2] Invalid argument supplied for foreach() /home/wwwroot/weiphp/Addons/Servicer/Controller/ServicerController.class.php 第 55 行.
+NOTIC: [8] Undefined index: template_list /home/wwwroot/weiphp/Addons/Servicer/Controller/ServicerController.class.php 第 65 行.
+NOTIC: [8] Use of undefined constant website_logo - assumed 'website_logo' /home/wwwroot/weiphp/Runtime/Cache/Servicer/dbee11d508082f0cad283c01d44e3137.php 第 64 行.
+NOTIC: [8] Use of undefined constant headimgurl - assumed 'headimgurl' /home/wwwroot/weiphp/Runtime/Cache/Servicer/dbee11d508082f0cad283c01d44e3137.php 第 92 行.
+NOTIC: [8] Undefined variable: output /home/wwwroot/weiphp/Application/Common/Common/function.php 第 1651 行.
+NOTIC: [8] Undefined variable: core_side_category /home/wwwroot/weiphp/Runtime/Cache/Servicer/dbee11d508082f0cad283c01d44e3137.php 第 132 行.
+NOTIC: [8] Undefined variable: add_url /home/wwwroot/weiphp/Runtime/Cache/Servicer/dbee11d508082f0cad283c01d44e3137.php 第 164 行.
+NOTIC: [8] Undefined variable: del_url /home/wwwroot/weiphp/Runtime/Cache/Servicer/dbee11d508082f0cad283c01d44e3137.php 第 165 行.
+NOTIC: [8] Use of undefined constant model - assumed 'model' /home/wwwroot/weiphp/Runtime/Cache/Servicer/dbee11d508082f0cad283c01d44e3137.php 第 174 行.
+NOTIC: [8] Undefined variable: search_url /home/wwwroot/weiphp/Runtime/Cache/Servicer/dbee11d508082f0cad283c01d44e3137.php 第 174 行.
+

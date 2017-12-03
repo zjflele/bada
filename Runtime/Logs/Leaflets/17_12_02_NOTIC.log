@@ -1,0 +1,74 @@
+[ 2017-12-02T19:17:23+08:00 ] 223.72.84.48 /index.php?s=/w16/Leaflets/Leaflets/config.html&mdm=45|49
+NOTIC: [2] Cannot declare class Think\Action, because the name is already in use /home/wwwroot/weiphp/ThinkPHP/Library/Think/ManageBaseController.class.php 第 316 行.
+NOTIC: [2] Declaration of Addons\Leaflets\Controller\LeafletsController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/wwwroot/weiphp/Addons/Leaflets/Controller/LeafletsController.class.php 第 7 行.
+NOTIC: [2] unlink(./Runtime/Temp/weiphp_94574941375bff72e465162aea5c280d.php): No such file or directory /home/wwwroot/weiphp/ThinkPHP/Library/Think/Cache/Driver/File.class.php 第 157 行.
+NOTIC: [2] Invalid argument supplied for foreach() /home/wwwroot/weiphp/Addons/Card/Model/CardCustomModel.class.php 第 20 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/weiphp/ThinkPHP/Library/Think/ManageBaseController.class.php 第 155 行.
+NOTIC: [8] Undefined variable: tongji_code /home/wwwroot/weiphp/ThinkPHP/Library/Think/ManageBaseController.class.php 第 122 行.
+NOTIC: [8] Undefined index: group_id /home/wwwroot/weiphp/Application/Common/Model/AddonStatusModel.class.php 第 50 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /home/wwwroot/weiphp/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined offset: 14 /home/wwwroot/weiphp/Application/Common/Model/MenuModel.class.php 第 98 行.
+NOTIC: [8] Undefined offset: 14 /home/wwwroot/weiphp/Application/Common/Model/MenuModel.class.php 第 109 行.
+NOTIC: [8] Undefined offset: 60 /home/wwwroot/weiphp/Application/Common/Model/MenuModel.class.php 第 98 行.
+NOTIC: [8] Undefined offset: 60 /home/wwwroot/weiphp/Application/Common/Model/MenuModel.class.php 第 109 行.
+NOTIC: [8] Undefined index: img /home/wwwroot/weiphp/Addons/Leaflets/Controller/LeafletsController.class.php 第 12 行.
+NOTIC: [2] unlink(./Runtime/Temp/weiphp_9e0e059d68fe12d027cdfbaa9407106d.php): No such file or directory /home/wwwroot/weiphp/ThinkPHP/Library/Think/Cache/Driver/File.class.php 第 157 行.
+NOTIC: [2] unlink(./Runtime/Temp/weiphp_9e0e059d68fe12d027cdfbaa9407106d.php): No such file or directory /home/wwwroot/weiphp/ThinkPHP/Library/Think/Cache/Driver/File.class.php 第 157 行.
+NOTIC: [8] Undefined index: Leaflets /home/wwwroot/weiphp/Application/Common/Model/AddonConfigModel.class.php 第 136 行.
+NOTIC: [8] Array to string conversion /home/wwwroot/weiphp/Application/Common/Model/AddonConfigModel.class.php 第 146 行.
+NOTIC: [8] Use of undefined constant website_logo - assumed 'website_logo' /home/wwwroot/weiphp/Runtime/Cache/Leaflets/e580c63bd02486f17e2bc1f0529be703.php 第 64 行.
+NOTIC: [8] Use of undefined constant headimgurl - assumed 'headimgurl' /home/wwwroot/weiphp/Runtime/Cache/Leaflets/e580c63bd02486f17e2bc1f0529be703.php 第 92 行.
+NOTIC: [8] Undefined variable: output /home/wwwroot/weiphp/Application/Common/Common/function.php 第 1651 行.
+NOTIC: [8] Undefined variable: core_side_category /home/wwwroot/weiphp/Runtime/Cache/Leaflets/e580c63bd02486f17e2bc1f0529be703.php 第 132 行.
+NOTIC: [8] Undefined index: title /home/wwwroot/weiphp/Runtime/Cache/Leaflets/e580c63bd02486f17e2bc1f0529be703.php 第 253 行.
+NOTIC: [8] Undefined index: info /home/wwwroot/weiphp/Runtime/Cache/Leaflets/e580c63bd02486f17e2bc1f0529be703.php 第 259 行.
+NOTIC: [8] Undefined index: copyright /home/wwwroot/weiphp/Runtime/Cache/Leaflets/e580c63bd02486f17e2bc1f0529be703.php 第 261 行.
+

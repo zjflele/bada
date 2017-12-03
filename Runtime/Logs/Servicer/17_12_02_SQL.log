@@ -1,0 +1,10 @@
+[ 2017-12-02T19:17:35+08:00 ] 223.72.84.48 /index.php?s=/w16/Servicer/Servicer/lists.html&mdm=45|338
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'servicer' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `wp_model` WHERE `id` = 1153 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `wp_servicer` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`uid`,`truename`,`mobile`,`role`,`enable`,`token` FROM `wp_servicer` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_model` WHERE `id` = 1153 LIMIT 1   [ RunTime:0.0001s ]
+

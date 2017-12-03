@@ -1,0 +1,154 @@
+[ 2017-12-02T19:13:23+08:00 ] 223.72.84.48 /index.php?s=/w16/CustomMenu/CustomMenu/lists.html&mdm=45|47
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `wp_custom_menu` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `wp_custom_menu` WHERE `rule_id` = 0 AND `token` = 'gh_474547030e87' ORDER BY pid asc, sort asc  [ RunTime:0.0002s ]
+
+[ 2017-12-02T19:14:16+08:00 ] 223.72.84.48 /index.php?s=/w16/CustomMenu/CustomMenu/lists.html&mdm=45|47
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_custom_menu` WHERE `rule_id` = 0 AND `token` = 'gh_474547030e87' ORDER BY pid asc, sort asc  [ RunTime:0.0001s ]
+
+[ 2017-12-02T19:14:21+08:00 ] 223.72.84.48 /index.php?s=/w16/CustomMenu/CustomMenu/add/rule_id/0.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0001s ]
+SQL: SELECT `id`,`title` FROM `wp_custom_menu` WHERE `token` = 'gh_474547030e87' AND `pid` = 0 AND `rule_id` = 0  [ RunTime:0.0002s ]
+
+[ 2017-12-02T19:15:33+08:00 ] 223.72.84.48 /index.php?s=/w16/CustomMenu/CustomMenu/add.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0001s ]
+SQL: INSERT INTO `wp_admin_log` (`uid`,`ip`,`mod`,`cTime`,`content`) VALUES ('1','223.72.84.48','CustomMenu','1512213333','http://18.221.171.174/index.php?s=/w16/CustomMenu/CustomMenu/add.html
+POST: array (
+  \'pid\' => \'0\',
+  \'title\' => \'私人营养师\',
+  \'from\' => \'2\',
+  \'material\' => \'text:\',
+  \'material_material_type\' => \'text\',
+  \'material_material_text_id\' => \'\',
+  \'material_material_news_id\' => \'\',
+  \'material_material_img_id\' => \'\',
+  \'material_material_voice_id\' => \'\',
+  \'material_material_video_id\' => \'\',
+  \'url\' => \'[website]/?s=/WeiSite/WeiSite/index/publicid/[publicid]\',
+  \'keyword\' => \'\',
+  \'pagepath\' => \'\',
+  \'appurl\' => \'\',
+  \'rule_id\' => \'0\',
+  \'id\' => \'0\',
+); 
+') [ RunTime:0.0002s ]
+SQL: INSERT INTO `wp_custom_menu` (`pid`,`title`,`from`,`material`,`url`,`keyword`,`pagepath`,`appurl`,`rule_id`,`id`,`token`) VALUES ('0','私人营养师','2','text:','[website]/?s=/WeiSite/WeiSite/index/publicid/[publicid]','','','','0','0','gh_474547030e87') [ RunTime:0.0002s ]
+
+[ 2017-12-02T19:15:34+08:00 ] 223.72.84.48 /index.php?s=/w16/CustomMenu/CustomMenu/lists.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_custom_menu` WHERE `rule_id` = 0 AND `token` = 'gh_474547030e87' ORDER BY pid asc, sort asc  [ RunTime:0.0002s ]
+
+[ 2017-12-02T19:16:03+08:00 ] 223.72.84.48 /index.php?s=/w16/CustomMenu/CustomMenu/add/rule_id/0.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0001s ]
+SQL: SELECT `id`,`title` FROM `wp_custom_menu` WHERE `token` = 'gh_474547030e87' AND `pid` = 0 AND `rule_id` = 0  [ RunTime:0.0002s ]
+
+[ 2017-12-02T19:16:25+08:00 ] 223.72.84.48 /index.php?s=/w16/CustomMenu/CustomMenu/add.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0001s ]
+SQL: INSERT INTO `wp_admin_log` (`uid`,`ip`,`mod`,`cTime`,`content`) VALUES ('1','223.72.84.48','CustomMenu','1512213385','http://18.221.171.174/index.php?s=/w16/CustomMenu/CustomMenu/add.html
+POST: array (
+  \'pid\' => \'0\',
+  \'title\' => \'叭哒食经\',
+  \'from\' => \'0\',
+  \'material\' => \'text:\',
+  \'material_material_type\' => \'text\',
+  \'material_material_text_id\' => \'\',
+  \'material_material_news_id\' => \'\',
+  \'material_material_img_id\' => \'\',
+  \'material_material_voice_id\' => \'\',
+  \'material_material_video_id\' => \'\',
+  \'url\' => \'\',
+  \'keyword\' => \'\',
+  \'pagepath\' => \'\',
+  \'appurl\' => \'\',
+  \'rule_id\' => \'0\',
+  \'id\' => \'0\',
+); 
+') [ RunTime:0.0002s ]
+SQL: INSERT INTO `wp_custom_menu` (`pid`,`title`,`from`,`material`,`url`,`keyword`,`pagepath`,`appurl`,`rule_id`,`id`,`token`) VALUES ('0','叭哒食经','0','text:','','','','','0','0','gh_474547030e87') [ RunTime:0.0001s ]
+
+[ 2017-12-02T19:16:27+08:00 ] 223.72.84.48 /index.php?s=/w16/CustomMenu/CustomMenu/lists.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_custom_menu` WHERE `rule_id` = 0 AND `token` = 'gh_474547030e87' ORDER BY pid asc, sort asc  [ RunTime:0.0003s ]
+
+[ 2017-12-02T19:16:31+08:00 ] 223.72.84.48 /index.php?s=/w16/CustomMenu/CustomMenu/add/rule_id/0.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0001s ]
+SQL: SELECT `id`,`title` FROM `wp_custom_menu` WHERE `token` = 'gh_474547030e87' AND `pid` = 0 AND `rule_id` = 0  [ RunTime:0.0002s ]
+
+[ 2017-12-02T19:17:04+08:00 ] 223.72.84.48 /index.php?s=/w16/CustomMenu/CustomMenu/add.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0001s ]
+SQL: INSERT INTO `wp_admin_log` (`uid`,`ip`,`mod`,`cTime`,`content`) VALUES ('1','223.72.84.48','CustomMenu','1512213423','http://18.221.171.174/index.php?s=/w16/CustomMenu/CustomMenu/add.html
+POST: array (
+  \'pid\' => \'0\',
+  \'title\' => \'叭哒食器\',
+  \'from\' => \'2\',
+  \'material\' => \'text:\',
+  \'material_material_type\' => \'text\',
+  \'material_material_text_id\' => \'\',
+  \'material_material_news_id\' => \'\',
+  \'material_material_img_id\' => \'\',
+  \'material_material_voice_id\' => \'\',
+  \'material_material_video_id\' => \'\',
+  \'url\' => \'\',
+  \'keyword\' => \'\',
+  \'pagepath\' => \'\',
+  \'appurl\' => \'\',
+  \'rule_id\' => \'0\',
+  \'id\' => \'0\',
+); 
+') [ RunTime:0.0002s ]
+
+[ 2017-12-02T19:17:08+08:00 ] 223.72.84.48 /index.php?s=/w16/CustomMenu/CustomMenu/add.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0001s ]
+SQL: INSERT INTO `wp_admin_log` (`uid`,`ip`,`mod`,`cTime`,`content`) VALUES ('1','223.72.84.48','CustomMenu','1512213428','http://18.221.171.174/index.php?s=/w16/CustomMenu/CustomMenu/add.html
+POST: array (
+  \'pid\' => \'0\',
+  \'title\' => \'叭哒食器\',
+  \'from\' => \'0\',
+  \'material\' => \'text:\',
+  \'material_material_type\' => \'text\',
+  \'material_material_text_id\' => \'\',
+  \'material_material_news_id\' => \'\',
+  \'material_material_img_id\' => \'\',
+  \'material_material_voice_id\' => \'\',
+  \'material_material_video_id\' => \'\',
+  \'url\' => \'\',
+  \'keyword\' => \'\',
+  \'pagepath\' => \'\',
+  \'appurl\' => \'\',
+  \'rule_id\' => \'0\',
+  \'id\' => \'0\',
+); 
+') [ RunTime:0.0002s ]
+SQL: INSERT INTO `wp_custom_menu` (`pid`,`title`,`from`,`material`,`url`,`keyword`,`pagepath`,`appurl`,`rule_id`,`id`,`token`) VALUES ('0','叭哒食器','0','text:','','','','','0','0','gh_474547030e87') [ RunTime:0.0001s ]
+
+[ 2017-12-02T19:17:10+08:00 ] 223.72.84.48 /index.php?s=/w16/CustomMenu/CustomMenu/lists.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_custom_menu` WHERE `rule_id` = 0 AND `token` = 'gh_474547030e87' ORDER BY pid asc, sort asc  [ RunTime:0.0003s ]
+
+[ 2017-12-02T19:17:57+08:00 ] 223.72.84.48 /index.php?s=/w16/CustomMenu/CustomMenu/lists.html&mdm=45|47
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_custom_menu` WHERE `rule_id` = 0 AND `token` = 'gh_474547030e87' ORDER BY pid asc, sort asc  [ RunTime:0.0001s ]
+

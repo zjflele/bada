@@ -1,0 +1,12 @@
+[ 2017-12-02T19:19:27+08:00 ] 223.72.84.48 /index.php?s=/w16/Vote/Vote/lists.html&mdm=17
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'vote' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'vote_option' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'vote_log' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `wp_model` WHERE `id` = 95 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `wp_vote` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`keyword`,`title`,`type`,`is_img`,`vote_count` FROM `wp_vote` WHERE `token` = 'gh_474547030e87' ORDER BY id DESC LIMIT 0,20   [ RunTime:0.0001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wp_vote` WHERE `token` = 'gh_474547030e87' LIMIT 1   [ RunTime:0.0001s ]
+
