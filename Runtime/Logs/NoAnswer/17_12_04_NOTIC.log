@@ -1,0 +1,80 @@
+[ 2017-12-04T10:38:35+08:00 ] 127.0.0.1 /index.php?s=/w16/NoAnswer/NoAnswer/config.html&mdm=45|339
+NOTIC: [2] Cannot declare class Think\Action, because the name is already in use /webcode/wechat/bada/ThinkPHP/Library/Think/ManageBaseController.class.php 第 316 行.
+NOTIC: [2] unlink(./Runtime/Temp/bada_94574941375bff72e465162aea5c280d.php): No such file or directory /webcode/wechat/bada/ThinkPHP/Library/Think/Cache/Driver/File.class.php 第 157 行.
+NOTIC: [2] Invalid argument supplied for foreach() /webcode/wechat/bada/Addons/Card/Model/CardCustomModel.class.php 第 20 行.
+NOTIC: [8] Undefined index: uid /webcode/wechat/bada/ThinkPHP/Library/Think/ManageBaseController.class.php 第 155 行.
+NOTIC: [8] Undefined variable: tongji_code /webcode/wechat/bada/ThinkPHP/Library/Think/ManageBaseController.class.php 第 122 行.
+NOTIC: [8] Undefined index: group_id /webcode/wechat/bada/Application/Common/Model/AddonStatusModel.class.php 第 50 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined variable: addons /webcode/wechat/bada/Application/Common/Common/function.php 第 501 行.
+NOTIC: [8] Undefined offset: 14 /webcode/wechat/bada/Application/Common/Model/MenuModel.class.php 第 98 行.
+NOTIC: [8] Undefined offset: 14 /webcode/wechat/bada/Application/Common/Model/MenuModel.class.php 第 109 行.
+NOTIC: [8] Undefined offset: 60 /webcode/wechat/bada/Application/Common/Model/MenuModel.class.php 第 98 行.
+NOTIC: [8] Undefined offset: 60 /webcode/wechat/bada/Application/Common/Model/MenuModel.class.php 第 109 行.
+NOTIC: [2] unlink(./Runtime/Temp/bada_d44f6c5455644645a64ecc967185258d.php): No such file or directory /webcode/wechat/bada/ThinkPHP/Library/Think/Cache/Driver/File.class.php 第 157 行.
+NOTIC: [2] unlink(./Runtime/Temp/bada_d44f6c5455644645a64ecc967185258d.php): No such file or directory /webcode/wechat/bada/ThinkPHP/Library/Think/Cache/Driver/File.class.php 第 157 行.
+NOTIC: [8] Undefined index: NoAnswer /webcode/wechat/bada/Application/Common/Model/AddonConfigModel.class.php 第 136 行.
+NOTIC: [8] Array to string conversion /webcode/wechat/bada/Application/Common/Model/AddonConfigModel.class.php 第 146 行.
+NOTIC: [8] Use of undefined constant website_logo - assumed 'website_logo' /webcode/wechat/bada/Runtime/Cache/NoAnswer/d19a9f7656fbc233a81e763801778257.php 第 64 行.
+NOTIC: [8] Use of undefined constant headimgurl - assumed 'headimgurl' /webcode/wechat/bada/Runtime/Cache/NoAnswer/d19a9f7656fbc233a81e763801778257.php 第 92 行.
+NOTIC: [8] Undefined variable: output /webcode/wechat/bada/Application/Common/Common/function.php 第 1651 行.
+NOTIC: [8] Undefined variable: core_side_category /webcode/wechat/bada/Runtime/Cache/NoAnswer/d19a9f7656fbc233a81e763801778257.php 第 132 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' /webcode/wechat/bada/Runtime/Cache/NoAnswer/d19a9f7656fbc233a81e763801778257.php 第 165 行.
+NOTIC: [8] Undefined variable: field /webcode/wechat/bada/Runtime/Cache/NoAnswer/d19a9f7656fbc233a81e763801778257.php 第 193 行.
+NOTIC: [8] Undefined offset: 0 /webcode/wechat/bada/Plugins/Material/MaterialAddon.class.php 第 49 行.
+NOTIC: [8] Undefined offset: 1 /webcode/wechat/bada/Plugins/Material/MaterialAddon.class.php 第 49 行.
+NOTIC: [8] Undefined variable: default_type /webcode/wechat/bada/Runtime/Cache/NoAnswer/6e80818d599d2573b4fa4c5959ed935c.php 第 41 行.
+NOTIC: [8] Undefined variable: default_id /webcode/wechat/bada/Runtime/Cache/NoAnswer/6e80818d599d2573b4fa4c5959ed935c.php 第 41 行.
+NOTIC: [8] Undefined variable: text_id /webcode/wechat/bada/Runtime/Cache/NoAnswer/6e80818d599d2573b4fa4c5959ed935c.php 第 67 行.
+NOTIC: [8] Undefined variable: news_id /webcode/wechat/bada/Runtime/Cache/NoAnswer/6e80818d599d2573b4fa4c5959ed935c.php 第 75 行.
+NOTIC: [8] Undefined variable: img_id /webcode/wechat/bada/Runtime/Cache/NoAnswer/6e80818d599d2573b4fa4c5959ed935c.php 第 82 行.
+NOTIC: [8] Undefined variable: voice_id /webcode/wechat/bada/Runtime/Cache/NoAnswer/6e80818d599d2573b4fa4c5959ed935c.php 第 90 行.
+NOTIC: [8] Undefined variable: video_id /webcode/wechat/bada/Runtime/Cache/NoAnswer/6e80818d599d2573b4fa4c5959ed935c.php 第 96 行.
+

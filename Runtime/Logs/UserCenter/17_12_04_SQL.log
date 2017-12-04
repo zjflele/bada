@@ -1,0 +1,14 @@
+[ 2017-12-04T10:38:29+08:00 ] 127.0.0.1 /index.php?s=/w16/UserCenter/UserCenter/lists.html&mdm=15
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0038s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0029s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0046s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'user' LIMIT 1   [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `wp_apps_follow` [ RunTime:0.0044s ]
+SQL: SELECT u.uid,f.openid FROM wp_apps_follow as f INNER JOIN wp_user as u ON f.uid=u.uid  WHERE u.status > 0 AND f.token = 'gh_474547030e87' AND f.has_subscribe = 1 ORDER BY u.uid desc LIMIT 0,20   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `wp_apps_follow` [ RunTime:0.0044s ]
+SQL: SELECT COUNT(*) AS tp_count FROM wp_apps_follow as f INNER JOIN wp_user as u ON f.uid=u.uid  WHERE u.status > 0 AND f.token = 'gh_474547030e87' AND f.has_subscribe = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wp_auth_group` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `wp_auth_group` WHERE `token` = 'gh_474547030e87' AND `manager_id` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wp_user_tag` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `wp_user_tag` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0014s ]
+

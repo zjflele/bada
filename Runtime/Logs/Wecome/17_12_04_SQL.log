@@ -1,0 +1,17 @@
+[ 2017-12-04T10:38:30+08:00 ] 127.0.0.1 /index.php?s=/w16/Wecome/Wecome/config.html&mdm=45
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0029s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0087s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0042s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'wecome' LIMIT 1   [ RunTime:0.0039s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'wecome' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `wp_addons` WHERE `name` = 'Wecome' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `wp_addons` [ RunTime:0.0020s ]
+
+[ 2017-12-04T10:39:42+08:00 ] 127.0.0.1 /index.php?s=/w16/Wecome/Wecome/config.html&mdm=45
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'wecome' LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'wecome' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `wp_addons` WHERE `name` = 'Wecome' LIMIT 1   [ RunTime:0.0007s ]
+

@@ -1,0 +1,7 @@
+[ 2017-12-04T10:38:37+08:00 ] 127.0.0.1 /index.php?s=/w16/CustomMenu/CustomMenu/lists.html&mdm=45|47
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `wp_custom_menu` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `wp_custom_menu` WHERE `rule_id` = 0 AND `token` = 'gh_474547030e87' ORDER BY pid asc, sort asc  [ RunTime:0.0007s ]
+

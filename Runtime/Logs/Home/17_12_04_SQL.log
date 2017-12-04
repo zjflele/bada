@@ -1,0 +1,228 @@
+[ 2017-12-04T10:36:51+08:00 ] 127.0.0.1 /index.php?s=/w0/Home/Apps/lists/from/3.html
+SQL: SHOW COLUMNS FROM `wp_hooks` [ RunTime:0.0206s ]
+SQL: SELECT `name`,`addons` FROM `wp_hooks`  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `wp_addons` [ RunTime:0.0301s ]
+SQL: SELECT `id`,`name` FROM `wp_addons` WHERE `status` = 1 AND `name` IN ('ReturnTop')  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `wp_plugin` [ RunTime:0.0037s ]
+SQL: SELECT `id`,`name` FROM `wp_plugin` WHERE `status` = 1 AND `name` IN ('ReturnTop')  [ RunTime:0.0015s ]
+SQL: SELECT `id`,`name` FROM `wp_addons` WHERE `status` = 1 AND `name` IN ('SocialComment')  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `wp_plugin` WHERE `status` = 1 AND `name` IN ('SocialComment')  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `wp_addons` WHERE `status` = 1 AND `name` IN ('Editor')  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `wp_plugin` WHERE `status` = 1 AND `name` IN ('Editor')  [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `wp_addons` WHERE `status` = 1 AND `name` IN ('EditorForAdmin')  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `wp_plugin` WHERE `status` = 1 AND `name` IN ('EditorForAdmin')  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `wp_addons` WHERE `status` = 1 AND `name` IN ('SiteStat','SystemInfo','DevTeam')  [ RunTime:0.0015s ]
+SQL: SELECT `id`,`name` FROM `wp_plugin` WHERE `status` = 1 AND `name` IN ('SiteStat','SystemInfo','DevTeam')  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `wp_addons` WHERE `status` = 1 AND `name` IN ('Editor')  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `wp_plugin` WHERE `status` = 1 AND `name` IN ('Editor')  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `wp_addons` WHERE `status` = 1 AND `name` IN ('Vote','Wecome','UserCenter','WeiSite','Hitegg','Leaflets','CustomReply','Survey','Diy','CustomMenu','Invite','Game','Ask','Forms','CardVouchers','RedBag','Guess','WishCard','RealPrize','ConfigureAccount','BusinessCard','AutoReply','Payment','Comment','ShopCoupon','Coupon','Card','SingIn','Reserve','Wuguai','Sms','Exam','Test','Draw','YaoTV','Analysis','Weiba','QrAdmin','PublicBind','Cms','Feedback','WeiUserCenter','WeiPicture')  [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `wp_plugin` WHERE `status` = 1 AND `name` IN ('Vote','Wecome','UserCenter','WeiSite','Hitegg','Leaflets','CustomReply','Survey','Diy','CustomMenu','Invite','Game','Ask','Forms','CardVouchers','RedBag','Guess','WishCard','RealPrize','ConfigureAccount','BusinessCard','AutoReply','Payment','Comment','ShopCoupon','Coupon','Card','SingIn','Reserve','Wuguai','Sms','Exam','Test','Draw','YaoTV','Analysis','Weiba','QrAdmin','PublicBind','Cms','Feedback','WeiUserCenter','WeiPicture')  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `wp_addons` WHERE `status` = 1 AND `name` IN ('Cascade')  [ RunTime:0.0015s ]
+SQL: SELECT `id`,`name` FROM `wp_plugin` WHERE `status` = 1 AND `name` IN ('Cascade')  [ RunTime:0.0012s ]
+SQL: SELECT `id`,`name` FROM `wp_addons` WHERE `status` = 1 AND `name` IN ('Diy')  [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `wp_plugin` WHERE `status` = 1 AND `name` IN ('Diy')  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `wp_addons` WHERE `status` = 1 AND `name` IN ('DynamicSelect')  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `wp_plugin` WHERE `status` = 1 AND `name` IN ('DynamicSelect')  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `wp_addons` WHERE `status` = 1 AND `name` IN ('News')  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `wp_plugin` WHERE `status` = 1 AND `name` IN ('News')  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `wp_addons` WHERE `status` = 1 AND `name` IN ('DynamicCheckbox')  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `wp_plugin` WHERE `status` = 1 AND `name` IN ('DynamicCheckbox')  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `wp_addons` WHERE `status` = 1 AND `name` IN ('Material')  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `wp_plugin` WHERE `status` = 1 AND `name` IN ('Material')  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `wp_addons` WHERE `status` = 1 AND `name` IN ('Prize')  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `wp_plugin` WHERE `status` = 1 AND `name` IN ('Prize')  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `wp_config` [ RunTime:0.0034s ]
+SQL: SELECT `type`,`name`,`value` FROM `wp_config` WHERE `status` = 1  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `wp_apps` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `wp_addons` WHERE `status` = 1  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `wp_card_custom` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = ''  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wp_user` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `wp_user` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `wp_manager` [ RunTime:0.0026s ]
+SQL: SELECT `uid`,`has_public`,`headface_url`,`GammaAppId`,`GammaSecret`,`copy_right`,`tongji_code`,`website_logo` FROM `wp_manager` WHERE ( uid='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wp_auth_group_access` [ RunTime:0.0004s ]
+SQL: SELECT a.group_id,g.title,g.type,g.icon FROM wp_auth_group_access a INNER JOIN wp_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wp_apps_follow` [ RunTime:0.0009s ]
+SQL: SELECT `openid`,`token`,`uid`,`has_subscribe`,`syc_status`,`remark` FROM `wp_apps_follow` WHERE ( uid='1' )  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `wp_user_tag_link` [ RunTime:0.0019s ]
+SQL: SELECT `tag_id` FROM `wp_user_tag_link` WHERE `uid` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wp_menu` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `wp_addons` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `wp_model` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'apps' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `wp_apps_link` [ RunTime:0.0015s ]
+SQL: SELECT `mp_id` FROM `wp_apps_link` WHERE ( uid='1' )  [ RunTime:0.0002s ]
+SQL: SELECT `mp_id`,count(1) as num FROM `wp_apps_link` WHERE `mp_id` IN ('16') GROUP BY mp_id  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `wp_model` WHERE `id` = 6 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`uid`,`public_name`,`public_id`,`headface_url`,`area`,`addon_config`,`addon_status`,`token`,`type`,`appid`,`secret`,`encodingaeskey`,`tips_url`,`is_bind`,`check_file`,`app_type`,`mch_id`,`partner_key`,`cert_pem`,`key_pem`,`authorizer_refresh_token` FROM `wp_apps` WHERE `id` IN ('16') ORDER BY id desc  [ RunTime:0.0003s ]
+
+[ 2017-12-04T10:36:55+08:00 ] 127.0.0.1 /index.php?s=/w0/Home/User/logout.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = ''  [ RunTime:0.0028s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0008s ]
+
+[ 2017-12-04T10:36:56+08:00 ] 127.0.0.1 /index.php?s=/w0/Home/User/login.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = ''  [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `wp_auth_group_access` [ RunTime:0.0017s ]
+SQL: SELECT a.uid,a.group_id,g.title,g.rules FROM wp_auth_group_access a INNER JOIN wp_auth_group g on a.group_id=g.id  WHERE ( a.uid='' and g.status='1' )  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `wp_qr_code` [ RunTime:0.0042s ]
+SQL: SELECT `id`,`qr_code`,`addon`,`aim_id`,`cTime`,`token`,`action_name`,`extra_text`,`extra_int`,`request_count`,`scene_id`,`expire_seconds` FROM `wp_qr_code` WHERE `addon` = 'ScanLogin' AND `extra_text` = '5a23e379879af' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `id`,`token` FROM `wp_apps`  [ RunTime:0.0025s ]
+SQL: SELECT `id`,`token` FROM `wp_apps`  [ RunTime:0.0007s ]
+SQL: SELECT `id`,`token` FROM `wp_apps`  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `wp_qr_code` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`token` FROM `wp_apps`  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`token` FROM `wp_apps`  [ RunTime:0.0003s ]
+
+[ 2017-12-04T10:37:14+08:00 ] 127.0.0.1 /index.php?s=/w0/Home/Apps/lists/from/3.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = ''  [ RunTime:0.0003s ]
+
+[ 2017-12-04T10:37:23+08:00 ] 127.0.0.1 /index.php?s=/w0/Home/User/login.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = ''  [ RunTime:0.0051s ]
+SQL: SHOW COLUMNS FROM `wp_admin_log` [ RunTime:0.0036s ]
+SQL: INSERT INTO `wp_admin_log` (`ip`,`mod`,`cTime`,`content`) VALUES ('127.0.0.1','Home','1512355043','http://weiphp.bees.com/index.php?s=/w0/Home/User/login.html
+POST: array (
+  \'username\' => \'bees\',
+  \'password\' => \'f\',
+); 
+') [ RunTime:0.0005s ]
+SQL: SELECT `uid`,`nickname`,`password`,`truename`,`mobile`,`email`,`sex`,`headimgurl`,`city`,`province`,`country`,`language`,`score`,`experience`,`unionid`,`login_count`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`is_init`,`is_audit`,`subscribe_time`,`remark`,`groupid`,`come_from`,`login_password`,`manager_id`,`level`,`membership` FROM `wp_user` WHERE `nickname` = 'bees' LIMIT 1   [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `wp_action` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `wp_action` WHERE `name` = 'user_login' LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `wp_user` SET `login_count`=`login_count`+1,`last_login_time`='1512355043',`last_login_ip`='2130706433' WHERE `uid` = 1 [ RunTime:0.0005s ]
+
+[ 2017-12-04T10:37:23+08:00 ] 127.0.0.1 /index.php?s=/w0/Home/Apps/lists/from/3.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = ''  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'apps' LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT `mp_id` FROM `wp_apps_link` WHERE ( uid='1' )  [ RunTime:0.0022s ]
+SQL: SELECT `mp_id`,count(1) as num FROM `wp_apps_link` WHERE `mp_id` IN ('16') GROUP BY mp_id  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `wp_model` WHERE `id` = 6 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT `id`,`uid`,`public_name`,`public_id`,`headface_url`,`area`,`addon_config`,`addon_status`,`token`,`type`,`appid`,`secret`,`encodingaeskey`,`tips_url`,`is_bind`,`check_file`,`app_type`,`mch_id`,`partner_key`,`cert_pem`,`key_pem`,`authorizer_refresh_token` FROM `wp_apps` WHERE `id` IN ('16') ORDER BY id desc  [ RunTime:0.0028s ]
+
+[ 2017-12-04T10:37:35+08:00 ] 127.0.0.1 /
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = ''  [ RunTime:0.0027s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0026s ]
+
+[ 2017-12-04T10:37:35+08:00 ] 127.0.0.1 /index.php?s=/w0/Home/User/login/from/1.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = ''  [ RunTime:0.0046s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0011s ]
+
+[ 2017-12-04T10:37:35+08:00 ] 127.0.0.1 /index.php?s=/w0/Home/Apps/lists/from/3.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = ''  [ RunTime:0.0016s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'apps' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `mp_id` FROM `wp_apps_link` WHERE ( uid='1' )  [ RunTime:0.0014s ]
+SQL: SELECT `mp_id`,count(1) as num FROM `wp_apps_link` WHERE `mp_id` IN ('16') GROUP BY mp_id  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `wp_model` WHERE `id` = 6 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`uid`,`public_name`,`public_id`,`headface_url`,`area`,`addon_config`,`addon_status`,`token`,`type`,`appid`,`secret`,`encodingaeskey`,`tips_url`,`is_bind`,`check_file`,`app_type`,`mch_id`,`partner_key`,`cert_pem`,`key_pem`,`authorizer_refresh_token` FROM `wp_apps` WHERE `id` IN ('16') ORDER BY id desc  [ RunTime:0.0055s ]
+
+[ 2017-12-04T10:37:43+08:00 ] 127.0.0.1 /index.php?s=/w16/Home/Index/main.html
+SQL: SELECT * FROM `wp_apps` WHERE `id` = 16 LIMIT 1   [ RunTime:0.0038s ]
+SQL: SELECT * FROM `wp_addons` WHERE `status` = 1  [ RunTime:0.0033s ]
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `wp_apps_auth` [ RunTime:0.0017s ]
+SQL: SELECT `name`,type_2 as val FROM `wp_apps_auth`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `wp_addons` WHERE `is_show` = 1 AND `status` = 1 ORDER BY id DESC  [ RunTime:0.0007s ]
+SQL: SELECT `addon_status` FROM `wp_apps_link` WHERE `uid` = 1 AND `mp_id` = 16 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wp_apps_follow` [ RunTime:0.0043s ]
+SQL: SELECT COUNT(*) AS tp_count FROM wp_apps_follow as f WHERE f.token = 'gh_474547030e87' AND f.has_subscribe = 1 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `wp_apps_follow` [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM wp_apps_follow as f INNER JOIN wp_user as u ON f.uid=u.uid  WHERE f.token = 'gh_474547030e87' AND f.has_subscribe = 1 AND u.reg_time > 1512316800 LIMIT 1   [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `wp_apps_follow` [ RunTime:0.0017s ]
+SQL: SELECT COUNT(*) AS tp_count FROM wp_apps_follow as f INNER JOIN wp_user as u ON f.uid=u.uid  WHERE f.token = 'gh_474547030e87' AND f.has_subscribe = 1 AND u.reg_time > 1512230400 LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2017-12-04T10:37:51+08:00 ] 127.0.0.1 /index.php?s=/w16/Home/Material/material_lists.html&mdm=60
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `wp_material_news` [ RunTime:0.0007s ]
+
+[ 2017-12-04T10:37:55+08:00 ] 127.0.0.1 /index.php?s=/w16/Home/Material/material_lists.html&mdm=60
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0017s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0028s ]
+
+[ 2017-12-04T10:38:31+08:00 ] 127.0.0.1 /index.php?s=/w16/Home/Material/ajax_text_by_id.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0005s ]
+SQL: INSERT INTO `wp_admin_log` (`uid`,`ip`,`mod`,`cTime`,`content`) VALUES ('1','127.0.0.1','Home','1512355111','http://weiphp.bees.com/index.php?s=/w16/Home/Material/ajax_text_by_id.html
+POST: array (
+  \'text_id\' => \'\',
+); 
+') [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `wp_material_text` [ RunTime:0.0066s ]
+SQL: SELECT `content` FROM `wp_material_text` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-12-04T10:38:35+08:00 ] 127.0.0.1 /index.php?s=/w16/Home/Material/ajax_text_by_id.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0007s ]
+SQL: INSERT INTO `wp_admin_log` (`uid`,`ip`,`mod`,`cTime`,`content`) VALUES ('1','127.0.0.1','Home','1512355115','http://weiphp.bees.com/index.php?s=/w16/Home/Material/ajax_text_by_id.html
+POST: array (
+  \'text_id\' => \'\',
+); 
+') [ RunTime:0.0015s ]
+SQL: SELECT `content` FROM `wp_material_text` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0017s ]
+
+[ 2017-12-04T10:38:41+08:00 ] 127.0.0.1 /index.php?s=/w16/home/Message/add.html&mdm=45|50
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'message' LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `wp_model` WHERE `id` = 18 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `wp_auth_group` WHERE `token` = 'gh_474547030e87' AND `manager_id` = 1 AND `is_del` = 0  [ RunTime:0.0004s ]
+
+[ 2017-12-04T10:39:43+08:00 ] 127.0.0.1 /index.php?s=/w16/Home/Material/ajax_text_by_id.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0004s ]
+SQL: INSERT INTO `wp_admin_log` (`uid`,`ip`,`mod`,`cTime`,`content`) VALUES ('1','127.0.0.1','Home','1512355182','http://weiphp.bees.com/index.php?s=/w16/Home/Material/ajax_text_by_id.html
+POST: array (
+  \'text_id\' => \'\',
+); 
+') [ RunTime:0.0007s ]
+SQL: SELECT `content` FROM `wp_material_text` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-12-04T10:39:44+08:00 ] 127.0.0.1 /index.php?s=/w16/home/index/main.html&mdm=14
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `wp_addons` WHERE `is_show` = 1 AND `status` = 1 ORDER BY id DESC  [ RunTime:0.0007s ]
+SQL: SELECT `addon_status` FROM `wp_apps_link` WHERE `uid` = 1 AND `mp_id` = 16 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `wp_apps_follow` [ RunTime:0.0018s ]
+SQL: SELECT COUNT(*) AS tp_count FROM wp_apps_follow as f WHERE f.token = 'gh_474547030e87' AND f.has_subscribe = 1 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `wp_apps_follow` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM wp_apps_follow as f INNER JOIN wp_user as u ON f.uid=u.uid  WHERE f.token = 'gh_474547030e87' AND f.has_subscribe = 1 AND u.reg_time > 1512316800 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `wp_apps_follow` [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM wp_apps_follow as f INNER JOIN wp_user as u ON f.uid=u.uid  WHERE f.token = 'gh_474547030e87' AND f.has_subscribe = 1 AND u.reg_time > 1512230400 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-12-04T10:40:03+08:00 ] 127.0.0.1 /index.php?s=/w16/Home/Material/ajax_text_by_id.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0016s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0013s ]
+SQL: INSERT INTO `wp_admin_log` (`uid`,`ip`,`mod`,`cTime`,`content`) VALUES ('1','127.0.0.1','Home','1512355203','http://weiphp.bees.com/index.php?s=/w16/Home/Material/ajax_text_by_id.html
+POST: array (
+  \'text_id\' => \'\',
+); 
+') [ RunTime:0.0095s ]
+SQL: SELECT `content` FROM `wp_material_text` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0046s ]
+
+[ 2017-12-04T10:40:12+08:00 ] 127.0.0.1 /index.php?s=/w16/Home/Index/index.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0018s ]
+
+[ 2017-12-04T10:40:12+08:00 ] 127.0.0.1 /index.php?s=/w16/Home/User/login/from/1.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0020s ]
+
+[ 2017-12-04T10:40:12+08:00 ] 127.0.0.1 /index.php?s=/w16/Home/Apps/lists/from/3.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0025s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0026s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'apps' LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT `mp_id` FROM `wp_apps_link` WHERE ( uid='1' )  [ RunTime:0.0002s ]
+SQL: SELECT `mp_id`,count(1) as num FROM `wp_apps_link` WHERE `mp_id` IN ('16') GROUP BY mp_id  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_model` WHERE `id` = 6 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`uid`,`public_name`,`public_id`,`headface_url`,`area`,`addon_config`,`addon_status`,`token`,`type`,`appid`,`secret`,`encodingaeskey`,`tips_url`,`is_bind`,`check_file`,`app_type`,`mch_id`,`partner_key`,`cert_pem`,`key_pem`,`authorizer_refresh_token` FROM `wp_apps` WHERE `id` IN ('16') ORDER BY id desc  [ RunTime:0.0005s ]
+

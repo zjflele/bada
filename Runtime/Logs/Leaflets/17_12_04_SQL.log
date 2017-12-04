@@ -1,0 +1,57 @@
+[ 2017-12-04T10:38:49+08:00 ] 127.0.0.1 /index.php?s=/w16/Leaflets/Leaflets/config.html&mdm=45|49
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'leaflets' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'leaflets' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `wp_addons` WHERE `name` = 'Leaflets' LIMIT 1   [ RunTime:0.0019s ]
+
+[ 2017-12-04T10:39:27+08:00 ] 127.0.0.1 /index.php?s=/w16/Leaflets/Leaflets/config.html
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0063s ]
+SQL: INSERT INTO `wp_admin_log` (`uid`,`ip`,`mod`,`cTime`,`content`) VALUES ('1','127.0.0.1','Leaflets','1512355167','http://weiphp.bees.com/index.php?s=/w16/Leaflets/Leaflets/config.html
+POST: array (
+  \'config\' => 
+  array (
+    \'title\' => \'叭哒计食官方微信公众号\',
+    \'img\' => \'\',
+    \'info\' => \'叭哒计食，数据化你的每一餐。\',
+    \'copyright\' => \'©2001-2013 叭哒计食官方微信公众号版权所有\',
+  ),
+  \'id\' => \'42\',
+); 
+') [ RunTime:0.0029s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'leaflets' LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'leaflets' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `wp_apps` WHERE `token` = 'gh_474547030e87' LIMIT 1   [ RunTime:0.0027s ]
+SQL: UPDATE `wp_apps` SET `addon_config`='{\"WeiSite\":{\"title\":\"\\u53ed\\u54d2\\u8ba1\\u98df\",\"cover\":\"830\",\"info\":\"\\u6570\\u636e\\u5316\\u4f60\\u7684\\u6bcf\\u4e00\\u9910\",\"background\":null,\"template_index\":\"ColorV4\",\"show_background\":\"1\",\"template_lists\":\"V2\",\"template_footer\":\"V2\"},\"Leaflets\":{\"title\":\"\\u53ed\\u54d2\\u8ba1\\u98df\\u5b98\\u65b9\\u5fae\\u4fe1\\u516c\\u4f17\\u53f7\",\"img\":\"\",\"info\":\"\\u53ed\\u54d2\\u8ba1\\u98df\\uff0c\\u6570\\u636e\\u5316\\u4f60\\u7684\\u6bcf\\u4e00\\u9910\\u3002\",\"copyright\":\"\\u00a92001-2013 \\u53ed\\u54d2\\u8ba1\\u98df\\u5b98\\u65b9\\u5fae\\u4fe1\\u516c\\u4f17\\u53f7\\u7248\\u6743\\u6240\\u6709\"}}' WHERE `token` = 'gh_474547030e87' [ RunTime:0.0059s ]
+SQL: SELECT * FROM `wp_apps` WHERE `id` = 16 LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `id`,`token` FROM `wp_apps`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wp_apps` WHERE `id` = 16 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `id`,`appid` FROM `wp_apps`  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `wp_apps` WHERE `id` = 16 LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-12-04T10:39:29+08:00 ] 127.0.0.1 /index.php?s=/w16/Leaflets/Leaflets/config.html&mdm=45|49
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'leaflets' LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'leaflets' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_addons` WHERE `name` = 'Leaflets' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-12-04T10:39:30+08:00 ] 127.0.0.1 /index.php?s=/w16/Leaflets/Leaflets/config.html&mdm=45|49
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'leaflets' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'leaflets' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `wp_addons` WHERE `name` = 'Leaflets' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-12-04T10:39:32+08:00 ] 127.0.0.1 /index.php?s=/w16/Leaflets/Leaflets/config.html&mdm=45|49
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0022s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'leaflets' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'leaflets' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `wp_addons` WHERE `name` = 'Leaflets' LIMIT 1   [ RunTime:0.0009s ]
+

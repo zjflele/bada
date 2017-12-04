@@ -1,8 +1,0 @@
-[ 2017-12-03T07:31:28+08:00 ] 223.72.84.48 /index.php?s=/w16/WeiSite/Wap/index.html&nsukey=Ng7THdiQ74cZ7gx6vk%2Bn8y%2FQK18UMaCwhjGEaUyCCJOD2zvxwSBgWamuKWODnwyr74MYKds269aUTdogAVUNFOsOsXmafnYDPXbLbCtg8phg1QrZZf9VfmmI0F6JiXWWJGCx%2B0c1b2KDjq5a0Zv10cvdURY2gqUm2ymT3cMGHV6NspnYWbbE6AO5zLXpgGBRCtxquijAS8T93C5R1c1mSw%3D%3D
-SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0001s ]
-SQL: SELECT `token` FROM `wp_apps` WHERE `appid` = 'wx4ff46ba85853f83c' LIMIT 1   [ RunTime:0.0001s ]
-SQL: SELECT `uid` FROM `wp_apps_follow` WHERE `openid` = '-1' AND `token` = 'gh_474547030e87' LIMIT 1   [ RunTime:0.0001s ]
-SQL: SELECT * FROM `wp_weisite_category` WHERE `token` = 'gh_474547030e87' AND `is_show` = 1 AND `pid` = 0 ORDER BY sort asc, id desc  [ RunTime:0.0001s ]
-SQL: SELECT * FROM `wp_weisite_slideshow` WHERE `token` = 'gh_474547030e87' AND `is_show` = 1 ORDER BY sort asc, id desc  [ RunTime:0.0001s ]
-SQL: SELECT * FROM `wp_weisite_footer` WHERE `token` = 'gh_474547030e87' ORDER BY pid asc, sort asc  [ RunTime:0.0001s ]
-

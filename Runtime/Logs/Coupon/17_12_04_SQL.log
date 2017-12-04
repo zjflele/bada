@@ -1,0 +1,10 @@
+[ 2017-12-04T10:38:28+08:00 ] 127.0.0.1 /index.php?s=/w16/Coupon/Coupon/lists.html&mdm=356
+SQL: SELECT * FROM `wp_card_custom` WHERE `token` = 'gh_474547030e87'  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `wp_apps_link` WHERE `uid` = 1  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wp_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `wp_sn_code` [ RunTime:0.0044s ]
+SQL: SHOW COLUMNS FROM `wp_coupon` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `wp_model` WHERE `name` = 'coupon' LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT `id` FROM `wp_coupon` WHERE `token` = 'gh_474547030e87' AND `is_del` = 0 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wp_coupon` WHERE `token` = 'gh_474547030e87' AND `is_del` = 0 LIMIT 1   [ RunTime:0.0002s ]
+

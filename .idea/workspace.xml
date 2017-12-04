@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2896605d-3335-41c9-bb42-8b5bfc45cf1b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Uploads/Picture/2017-12-02/5a2288af29e6e.jpg" afterPath="$PROJECT_DIR$/Uploads/Picture/2017-12-02/5a2288af29e6e.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/Home/images/logo.png" afterPath="$PROJECT_DIR$/Public/Home/images/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/02476dc7db142826d8f0a063c69ba02f.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/02476dc7db142826d8f0a063c69ba02f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Install/10930f5f1cfee0a18170b1bf78b206ef.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Install/10930f5f1cfee0a18170b1bf78b206ef.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/CustomMenu/127e82034a059c1e3a15b419cfc33379.php" afterPath="$PROJECT_DIR$/Runtime/Cache/CustomMenu/127e82034a059c1e3a15b419cfc33379.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/WeiSite/17840350be2dee13164e5fd8a19700be.php" afterPath="$PROJECT_DIR$/Runtime/Cache/WeiSite/17840350be2dee13164e5fd8a19700be.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Admin/17_12_02_INFO.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Admin/17_12_02_INFO.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/AutoReply/17_12_02_INFO.log" afterPath="$PROJECT_DIR$/Runtime/Logs/AutoReply/17_12_02_INFO.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Coupon/17_12_02_INFO.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Coupon/17_12_02_INFO.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/CustomMenu/17_12_02_INFO.log" afterPath="$PROJECT_DIR$/Runtime/Logs/CustomMenu/17_12_02_INFO.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Home/17_12_02_INFO.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Home/17_12_02_INFO.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Install/17_12_02_INFO.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Install/17_12_02_INFO.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Leaflets/17_12_02_INFO.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Leaflets/17_12_02_INFO.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Servicer/17_12_02_INFO.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Servicer/17_12_02_INFO.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/UserCenter/17_12_02_INFO.log" afterPath="$PROJECT_DIR$/Runtime/Logs/UserCenter/17_12_02_INFO.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Vote/17_12_02_INFO.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Vote/17_12_02_INFO.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Wecome/17_12_02_INFO.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Wecome/17_12_02_INFO.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/WeiSite/17_12_02_INFO.log" afterPath="$PROJECT_DIR$/Runtime/Logs/WeiSite/17_12_02_INFO.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Weiba/17_12_02_INFO.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Weiba/17_12_02_INFO.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Admin/17_12_02_NOTIC.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Admin/17_12_02_NOTIC.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/AutoReply/17_12_02_NOTIC.log" afterPath="$PROJECT_DIR$/Runtime/Logs/AutoReply/17_12_02_NOTIC.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Coupon/17_12_02_NOTIC.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Coupon/17_12_02_NOTIC.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/CustomMenu/17_12_02_NOTIC.log" afterPath="$PROJECT_DIR$/Runtime/Logs/CustomMenu/17_12_02_NOTIC.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Home/17_12_02_NOTIC.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Home/17_12_02_NOTIC.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Install/17_12_02_NOTIC.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Install/17_12_02_NOTIC.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Leaflets/17_12_02_NOTIC.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Leaflets/17_12_02_NOTIC.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Servicer/17_12_02_NOTIC.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Servicer/17_12_02_NOTIC.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/UserCenter/17_12_02_NOTIC.log" afterPath="$PROJECT_DIR$/Runtime/Logs/UserCenter/17_12_02_NOTIC.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Vote/17_12_02_NOTIC.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Vote/17_12_02_NOTIC.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Wecome/17_12_02_NOTIC.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Wecome/17_12_02_NOTIC.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/WeiSite/17_12_02_NOTIC.log" afterPath="$PROJECT_DIR$/Runtime/Logs/WeiSite/17_12_02_NOTIC.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Weiba/17_12_02_NOTIC.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Weiba/17_12_02_NOTIC.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Admin/17_12_02_SQL.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Admin/17_12_02_SQL.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/AutoReply/17_12_02_SQL.log" afterPath="$PROJECT_DIR$/Runtime/Logs/AutoReply/17_12_02_SQL.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Coupon/17_12_02_SQL.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Coupon/17_12_02_SQL.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/CustomMenu/17_12_02_SQL.log" afterPath="$PROJECT_DIR$/Runtime/Logs/CustomMenu/17_12_02_SQL.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Home/17_12_02_SQL.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Home/17_12_02_SQL.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Leaflets/17_12_02_SQL.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Leaflets/17_12_02_SQL.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Servicer/17_12_02_SQL.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Servicer/17_12_02_SQL.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/UserCenter/17_12_02_SQL.log" afterPath="$PROJECT_DIR$/Runtime/Logs/UserCenter/17_12_02_SQL.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Vote/17_12_02_SQL.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Vote/17_12_02_SQL.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Wecome/17_12_02_SQL.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Wecome/17_12_02_SQL.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/WeiSite/17_12_02_SQL.log" afterPath="$PROJECT_DIR$/Runtime/Logs/WeiSite/17_12_02_SQL.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Weiba/17_12_02_SQL.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Weiba/17_12_02_SQL.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Home/17_12_03_INFO.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Home/17_12_03_INFO.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/UserCenter/17_12_03_INFO.log" afterPath="$PROJECT_DIR$/Runtime/Logs/UserCenter/17_12_03_INFO.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/WeiSite/17_12_03_INFO.log" afterPath="$PROJECT_DIR$/Runtime/Logs/WeiSite/17_12_03_INFO.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Home/17_12_03_NOTIC.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Home/17_12_03_NOTIC.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/UserCenter/17_12_03_NOTIC.log" afterPath="$PROJECT_DIR$/Runtime/Logs/UserCenter/17_12_03_NOTIC.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/WeiSite/17_12_03_NOTIC.log" afterPath="$PROJECT_DIR$/Runtime/Logs/WeiSite/17_12_03_NOTIC.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Home/17_12_03_SQL.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Home/17_12_03_SQL.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/UserCenter/17_12_03_SQL.log" afterPath="$PROJECT_DIR$/Runtime/Logs/UserCenter/17_12_03_SQL.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/WeiSite/17_12_03_SQL.log" afterPath="$PROJECT_DIR$/Runtime/Logs/WeiSite/17_12_03_SQL.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/1898ccdfc0206fc5b2c9b437b00ed612.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/1898ccdfc0206fc5b2c9b437b00ed612.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Install/1afb52484deba53b245c0d598473848f.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Install/1afb52484deba53b245c0d598473848f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/WeiSite/1f6323bc34dfcaeaf0ba410d78aa6c57.php" afterPath="$PROJECT_DIR$/Runtime/Cache/WeiSite/1f6323bc34dfcaeaf0ba410d78aa6c57.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/2eb982eb903936990939883c61051d77.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/2eb982eb903936990939883c61051d77.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/CustomMenu/2f26f491b3e4b9536ac3fd93f2134361.php" afterPath="$PROJECT_DIR$/Runtime/Cache/CustomMenu/2f26f491b3e4b9536ac3fd93f2134361.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/WeiSite/30be84054624dfbb33ded81b3db7db36.php" afterPath="$PROJECT_DIR$/Runtime/Cache/WeiSite/30be84054624dfbb33ded81b3db7db36.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/UserCenter/318ac330ef6b45b66ac742f62a552cf8.php" afterPath="$PROJECT_DIR$/Runtime/Cache/UserCenter/318ac330ef6b45b66ac742f62a552cf8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/38a4dcbb9cb83da241fbaebf5d275553.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/38a4dcbb9cb83da241fbaebf5d275553.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/WeiSite/3b4160f58a490580e22bc19ada7ee106.php" afterPath="$PROJECT_DIR$/Runtime/Cache/WeiSite/3b4160f58a490580e22bc19ada7ee106.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/3bea2622584bf71f1666eb1ecad04c0e.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/3bea2622584bf71f1666eb1ecad04c0e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/3c9f831a788a3b11812c985f3c217634.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/3c9f831a788a3b11812c985f3c217634.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/WeiSite/3df911990ea8a2d53f5b78cbac4e9c26.php" afterPath="$PROJECT_DIR$/Runtime/Cache/WeiSite/3df911990ea8a2d53f5b78cbac4e9c26.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/4013670c171e2e2e315ca1f4cefa737d.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/4013670c171e2e2e315ca1f4cefa737d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/WeiSite/40f3fb605be69569d69a8469112b415f.php" afterPath="$PROJECT_DIR$/Runtime/Cache/WeiSite/40f3fb605be69569d69a8469112b415f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/WeiSite/4574d997dcb970cff626cc8bc102e832.php" afterPath="$PROJECT_DIR$/Runtime/Cache/WeiSite/4574d997dcb970cff626cc8bc102e832.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/469982366d873cc022d1d192c65b57c5.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/469982366d873cc022d1d192c65b57c5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/47a23fa112dbd75080fa5b09fe7f24a9.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/47a23fa112dbd75080fa5b09fe7f24a9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/4d8bf38c0da33219adfe7fc92ed93564.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/4d8bf38c0da33219adfe7fc92ed93564.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/51f704be554f8aaec1e9c725f686533a.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/51f704be554f8aaec1e9c725f686533a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Install/6236e16d6fb6c3909456d5deb3fb62de.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Install/6236e16d6fb6c3909456d5deb3fb62de.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/6c191f30e76ab15a17fc60ec550f74a1.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/6c191f30e76ab15a17fc60ec550f74a1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/CustomMenu/6e80818d599d2573b4fa4c5959ed935c.php" afterPath="$PROJECT_DIR$/Runtime/Cache/CustomMenu/6e80818d599d2573b4fa4c5959ed935c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Wecome/6e80818d599d2573b4fa4c5959ed935c.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Wecome/6e80818d599d2573b4fa4c5959ed935c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/70ee06b6a7e95ec22c155b12b1042661.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/70ee06b6a7e95ec22c155b12b1042661.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/WeiSite/81dd0f3d4b847798a49a13d55b1783af.php" afterPath="$PROJECT_DIR$/Runtime/Cache/WeiSite/81dd0f3d4b847798a49a13d55b1783af.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/UserCenter/83dc787264ce0230f3b2f1814c0c603b.php" afterPath="$PROJECT_DIR$/Runtime/Cache/UserCenter/83dc787264ce0230f3b2f1814c0c603b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/UserCenter/885b6ab9a39e9a535d26cb74ff315af5.php" afterPath="$PROJECT_DIR$/Runtime/Cache/UserCenter/885b6ab9a39e9a535d26cb74ff315af5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Wecome/885b6ab9a39e9a535d26cb74ff315af5.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Wecome/885b6ab9a39e9a535d26cb74ff315af5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/WeiSite/8b7753b1e319a88e18dfac3a9322d09a.php" afterPath="$PROJECT_DIR$/Runtime/Cache/WeiSite/8b7753b1e319a88e18dfac3a9322d09a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/8d6ea223317dd575b4d7048f2c0921c7.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/8d6ea223317dd575b4d7048f2c0921c7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/WeiSite/8d6ea223317dd575b4d7048f2c0921c7.php" afterPath="$PROJECT_DIR$/Runtime/Cache/WeiSite/8d6ea223317dd575b4d7048f2c0921c7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/90cecd4ca98f4cb659d7e9ceedf5d763.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/90cecd4ca98f4cb659d7e9ceedf5d763.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/9338d9591f7e87311f8bfc4fa69b12b2.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/9338d9591f7e87311f8bfc4fa69b12b2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/WeiSite/9d43579c7fe3d1ea2f1470f8f465288b.php" afterPath="$PROJECT_DIR$/Runtime/Cache/WeiSite/9d43579c7fe3d1ea2f1470f8f465288b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/9f43e2e8f852de22373d051dc7e0f790.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/9f43e2e8f852de22373d051dc7e0f790.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/aa6ea3a76c1baa576e2fd81d4d8d90eb.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/aa6ea3a76c1baa576e2fd81d4d8d90eb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/abc085b49b6de97789dce26e84158303.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/abc085b49b6de97789dce26e84158303.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/b794edf2444f02c2bc6e423d3275adcd.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/b794edf2444f02c2bc6e423d3275adcd.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Install/c6bbce5b1f1dcf027c8ceb5cf5141b65.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Install/c6bbce5b1f1dcf027c8ceb5cf5141b65.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/WeiSite/c95b62ad83ab23187456b2ab786c5ce0.php" afterPath="$PROJECT_DIR$/Runtime/Cache/WeiSite/c95b62ad83ab23187456b2ab786c5ce0.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/cb303c9031697dbdefbefe2927188b33.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/cb303c9031697dbdefbefe2927188b33.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/UserCenter/d9d94db1bee759ff93df2f977efe5033.php" afterPath="$PROJECT_DIR$/Runtime/Cache/UserCenter/d9d94db1bee759ff93df2f977efe5033.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/AutoReply/dbee11d508082f0cad283c01d44e3137.php" afterPath="$PROJECT_DIR$/Runtime/Cache/AutoReply/dbee11d508082f0cad283c01d44e3137.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Coupon/dbee11d508082f0cad283c01d44e3137.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Coupon/dbee11d508082f0cad283c01d44e3137.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/dbee11d508082f0cad283c01d44e3137.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/dbee11d508082f0cad283c01d44e3137.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Servicer/dbee11d508082f0cad283c01d44e3137.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Servicer/dbee11d508082f0cad283c01d44e3137.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Weiba/dbee11d508082f0cad283c01d44e3137.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Weiba/dbee11d508082f0cad283c01d44e3137.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Install/df9295ff545a4980babae2637965a9bc.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Install/df9295ff545a4980babae2637965a9bc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/WeiSite/e004b386f500c949ddbebf9b2de04a14.php" afterPath="$PROJECT_DIR$/Runtime/Cache/WeiSite/e004b386f500c949ddbebf9b2de04a14.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/WeiSite/e457f65135e4eda2a1c955d146205c2a.php" afterPath="$PROJECT_DIR$/Runtime/Cache/WeiSite/e457f65135e4eda2a1c955d146205c2a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Leaflets/e580c63bd02486f17e2bc1f0529be703.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Leaflets/e580c63bd02486f17e2bc1f0529be703.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/e5ad0f3e94cb1d6500479461464583aa.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/e5ad0f3e94cb1d6500479461464583aa.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/e9511add963eaf992947f03923aed021.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/e9511add963eaf992947f03923aed021.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/WeiSite/ebf85cb9625d1d13fac23bdfdbe57b56.php" afterPath="$PROJECT_DIR$/Runtime/Cache/WeiSite/ebf85cb9625d1d13fac23bdfdbe57b56.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/UserCenter/ed43eb9801396b0cf96f97b8d8f68918.php" afterPath="$PROJECT_DIR$/Runtime/Cache/UserCenter/ed43eb9801396b0cf96f97b8d8f68918.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/ef61734bafdb3ed690efe2430012c4a1.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/ef61734bafdb3ed690efe2430012c4a1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Vote/f2c00bd672aecf2d802640c73528c6b8.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Vote/f2c00bd672aecf2d802640c73528c6b8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/f45a57226f216931b1311cf4838b27be.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/f45a57226f216931b1311cf4838b27be.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/f6094abfa8a7a35d83bd1c72804031f6.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/f6094abfa8a7a35d83bd1c72804031f6.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/Public/footer.html" afterPath="$PROJECT_DIR$/Application/Home/View/Public/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/Public/header.html" afterPath="$PROJECT_DIR$/Application/Home/View/Public/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/install.lock" afterPath="$PROJECT_DIR$/Data/install.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/keyword_cache.php" afterPath="$PROJECT_DIR$/Runtime/Data/keyword_cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/View/Public/login.html" afterPath="$PROJECT_DIR$/Application/Admin/View/Public/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/User/login.html" afterPath="$PROJECT_DIR$/Application/Home/View/User/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/Public/login_footer.html" afterPath="$PROJECT_DIR$/Application/Home/View/Public/login_footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/User/register.html" afterPath="$PROJECT_DIR$/Application/Home/View/User/register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/User/simple_login.html" afterPath="$PROJECT_DIR$/Application/Home/View/User/simple_login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_action.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_action.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_addonconfig.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_addonconfig.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_addons.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_addons.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_addonstatus.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_addonstatus.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_admin_log.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_admin_log.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_api.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_apps.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_apps.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_apps_auth.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_apps_auth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_apps_check.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_apps_check.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_apps_follow.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_apps_follow.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_apps_link.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_apps_link.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_appsauth.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_appsauth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_auth_group.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_auth_group.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_autoreply.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_autoreply.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_cardcustom.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_cardcustom.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_config.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_coupon.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_coupon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_custom_menu.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_custom_menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_custom_sendall.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_custom_sendall.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_debug_log.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_debug_log.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_follow.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_follow.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_footer.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_hooks.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_hooks.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_manager.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_manager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_material_image.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_material_image.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_material_text.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_material_text.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_menu.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_model.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_picture.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_picture.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_plugin.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_plugin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_qr_code.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_qr_code.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_qrcode.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_qrcode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_servicer.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_servicer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_sncode.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_sncode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_user.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_user_tag.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_user_tag.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_user_tag_link.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_user_tag_link.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_vote.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_vote.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weiba.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weiba.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weiba_category.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weiba_category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weisite_category.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weisite_category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weisite_footer.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weisite_footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weisite_slideshow.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weisite_slideshow.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weisitecategory.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weisitecategory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weisitefooter.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weisitefooter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weisiteslideshow.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weisiteslideshow.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weixin_message.php" afterPath="$PROJECT_DIR$/Runtime/Data/_fields/weiphp.wp_weixin_message.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_060c99c4887e174b26d8a708d737d3fb.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_060c99c4887e174b26d8a708d737d3fb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_1b445f4333a99ca6fc65ef2c504828ec.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_1b445f4333a99ca6fc65ef2c504828ec.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_2108776e802c13de0147e05767d7d001.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_2108776e802c13de0147e05767d7d001.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_215706f02974c2103db472d95b4e1d40.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_215706f02974c2103db472d95b4e1d40.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_361e0dbc6412659b0f35474789f0afde.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_361e0dbc6412659b0f35474789f0afde.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_4c8a785e422ba280d7891dbb4e856529.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_4c8a785e422ba280d7891dbb4e856529.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_4e819c837d54a6ed09abc77a8560a66f.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_4e819c837d54a6ed09abc77a8560a66f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_6a4c59ae3497d981d704db02031a12e4.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_6a4c59ae3497d981d704db02031a12e4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_6cb94e03bd8dd3e947144dc1caf6d1d2.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_6cb94e03bd8dd3e947144dc1caf6d1d2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_6eb0871536905088b2f92606016b37cd.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_6eb0871536905088b2f92606016b37cd.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_70fbd646a34ebf73aea156f26c99c6f9.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_70fbd646a34ebf73aea156f26c99c6f9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_73cdcb335b57f910dd6c0210797c92ce.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_73cdcb335b57f910dd6c0210797c92ce.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_7896bacc1c011487ee62092cb2d9d980.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_7896bacc1c011487ee62092cb2d9d980.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_7be2e862ca38d926a10250a6704b7247.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_7be2e862ca38d926a10250a6704b7247.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_85dd001d2193005b4e77dcdbd5596be7.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_85dd001d2193005b4e77dcdbd5596be7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_92d4bef37a9d6dccd4e73a1fcdf6b721.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_92d4bef37a9d6dccd4e73a1fcdf6b721.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_931b5b3cad55d64c859ac8fe37543b59.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_931b5b3cad55d64c859ac8fe37543b59.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_940181e72d59b658dbfd937531cd7c5b.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_940181e72d59b658dbfd937531cd7c5b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_95a1fe934b68ebfee8468bf0bc4f0000.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_95a1fe934b68ebfee8468bf0bc4f0000.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_c06450d7391be51f416808b9318c1493.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_c06450d7391be51f416808b9318c1493.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_d476d66d219f4b2f64d8f3973b554af6.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_d476d66d219f4b2f64d8f3973b554af6.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_d6e6b5c5d0a9e4582e6beac49550ecf6.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_d6e6b5c5d0a9e4582e6beac49550ecf6.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_d7ab177baddc99a8ccc93b697aaf9516.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_d7ab177baddc99a8ccc93b697aaf9516.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_e483b8d539078e1f04deb2d521db53df.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_e483b8d539078e1f04deb2d521db53df.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_fb7486d89840681a9b865c3ac380065c.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_fb7486d89840681a9b865c3ac380065c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/weiphp_fdeb47c1030427090e141efaaaa24c90.php" afterPath="$PROJECT_DIR$/Runtime/Temp/weiphp_fdeb47c1030427090e141efaaaa24c90.php" />
+    </list>
+    <ignored path="bada.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="bada" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/View/Base/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="360">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/View/Public/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.791666" vertical-offset="512" max-vertical-offset="1245">
+              <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/View/Public/login_footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="120">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/View/Public/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="255">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="card_footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/View/Public/card_footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="270">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="body.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/View/Public/body.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="720">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Application/Home/View/Public/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.08185539" vertical-offset="0" max-vertical-offset="825">
+              <caret line="4" column="55" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/View/User/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-25.588236" vertical-offset="0" max-vertical-offset="2370">
+              <caret line="87" column="40" selection-start-line="87" selection-start-column="40" selection-end-line="87" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/View/Base/login_base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="360">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="simple_login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/View/User/simple_login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="1665">
+              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Application/Common/Conf/config.php" />
+        <option value="$PROJECT_DIR$/Application/Admin/View/Public/base.html" />
+        <option value="$PROJECT_DIR$/Application/Admin/View/Public/login.html" />
+        <option value="$PROJECT_DIR$/Application/Home/View/User/login.html" />
+        <option value="$PROJECT_DIR$/Application/Home/View/User/register.html" />
+        <option value="$PROJECT_DIR$/Application/Home/View/User/simple_login.html" />
+        <option value="$PROJECT_DIR$/Application/Home/View/Public/header.html" />
+        <option value="$PROJECT_DIR$/Application/Home/View/Public/login_footer.html" />
+        <option value="$PROJECT_DIR$/Application/Home/View/Public/footer.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bada" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bada" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bada" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bada" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bada" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bada" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bada" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bada" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bada" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bada" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bada" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bada" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bada" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="configurable.group.build" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2896605d-3335-41c9-bb42-8b5bfc45cf1b" name="Default" comment="" />
+      <created>1512301552353</created>
+      <option name="number" value="Default" />
+      <updated>1512301552353</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Apps/lists.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="1995">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Common/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.019608" vertical-offset="659" max-vertical-offset="1650">
+          <caret line="67" column="42" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36834925" vertical-offset="0" max-vertical-offset="733">
+          <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Public/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5784447" vertical-offset="1337" max-vertical-offset="2070">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Public/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40654844" vertical-offset="287" max-vertical-offset="3090">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/User/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-38.75" vertical-offset="0" max-vertical-offset="1950">
+          <caret line="62" column="57" selection-start-line="62" selection-start-column="57" selection-end-line="62" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/User/simple_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="1665">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/User/bind_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18417463" vertical-offset="0" max-vertical-offset="765">
+          <caret line="9" column="66" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/User/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-25.588236" vertical-offset="0" max-vertical-offset="2370">
+          <caret line="87" column="40" selection-start-line="87" selection-start-column="40" selection-end-line="87" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Base/login_base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Base/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="360">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Public/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.791666" vertical-offset="512" max-vertical-offset="1245">
+          <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Public/login_footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="120">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Public/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="255">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Public/card_footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="270">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Public/body.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="720">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Public/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08185539" vertical-offset="0" max-vertical-offset="825">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
